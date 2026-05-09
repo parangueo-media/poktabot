@@ -49,6 +49,8 @@ Each player tries to push the ball through the opponent’s ring.
 
 The first player to push the ball through the opponent’s ring wins.
 If nobody scores within 3 minutes, the game ends with no winner.
+Feel free to use our online POKTABOT timer: https://poktabot-timer.lovable.app/
+
 
 ## Notes
 
