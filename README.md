@@ -6,7 +6,9 @@ POKTABOT is created and maintained by Ondrej Michalak and Laura Rodriguez from P
 POKTABOT is to be played at robotic and cultural events as a competition for kids, teenagers or adults in three different levels:
 
 BASIC – (6-12yo) Playing with standartized robots and joysticks provided by the event organiser. Recommended and suitable platforms are micro:bit and Cutebot or similar.
+
 HACKER – (13-18yo) High-School level. Players brings their own programmable joysticks with programmable buttons and programmable robots in size 10x10x10 cm max. Recommended and suitable platforms are micro:bit and Cutebot or similar. Platform such as Raspberry PI or Arduino may be considered for elder teenagers.
+
 ROBOT – (16+ yo) University and adult level. Players bring their own fully autonomous robots.
 
 
